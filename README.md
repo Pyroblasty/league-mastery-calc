@@ -2,7 +2,7 @@ League of Legends:  Mastery Calculator
 ======================================
 
 This project was designed to experiment with the new mastery changes that came
-with season 2 and has now been updated for season 3. It features a very fast
+with season 2 and has now been updated for season 6. It features a very fast
 interface with fully functional talent trees that work as you would expect in
 game. Each point you change will automatically alter the URL to provide a unique
 link so that you may share a build with other players. The calculator does not
@@ -12,12 +12,13 @@ desired.
 Demo
 ----
 
-<http://dpatti.github.com/league-mastery-calc/>
+<http://pyroblasty.github.com/league-mastery-calc/>
 
 Contributors
 ------------
 
 * [@wonderfulheaven](https://twitter.com/wonderfulheaven) - Season 3 data update
+* [@pyroblasty](https://reddit.com/user/lukeatlook) - Season 6 data update
 
 License
 -------
